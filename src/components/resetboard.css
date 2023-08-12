@@ -1,0 +1,9 @@
+.reset {
+    cursor: pointer;
+    margin: 3rem;
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: large;
+}
